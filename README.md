@@ -23,9 +23,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
@@ -47,5 +45,3 @@ Thanks a lot to TingHueiChen's CodePen, otherwise I wouldn't have completed this
 Previously I was scratching my head on how to apply the overlay background on my button until I found out about `hsla` and using `radio` as an option. I've tried referring to Bootstrap's documentation about button's resizing but fail.
 
 I have copy pasted some of the code and did not remove some but marked as a comment there. 
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
