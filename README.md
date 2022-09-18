@@ -2,9 +2,6 @@
 
 This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Overview
-
-
 ### Screenshot
 
 ![Screenshot](images/screenshot.png?raw=true "Screenshot")
@@ -13,8 +10,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 - Solution URL: [Repo](https://github.com/zulamirsofian/interactive-rating-component)
 - Live Site URL: [Zulamir's Github](https://zulamirsofian.github.io/frontendmentor/InteractiveRatingComponent)
-
-## My process
 
 ### Built with
 
